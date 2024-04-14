@@ -1,0 +1,17 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "these is express js related programme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": " nodemon index.js"
+  },
+  "author": "Bhavika Gandhi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongo": "^0.1.0"
+  }
+}

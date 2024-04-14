@@ -1,0 +1,16 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "these programme for practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "ajio.js",
+    "start": "node server.js"
+  },
+  "author": "bhavika gandhi",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mongo": "^0.1.0"
+  }
+}
